@@ -1,3 +1,25 @@
+
+
+## 🔗 Contatos e Redes do Grupo ForestEyes
+
+<p align="center">
+  <a href="mailto:gpforesteyes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-gpforesteyes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/gpforesteyes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@gpforesteyes-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gpforesteyes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ForestEyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="http://lattes.cnpq.br/http://dgp.cnpq.br/dgp/espelhogrupo/321192" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-Grupo-1F6FEB?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+
 Licença de Uso – Livro "Explorando o QGIS 3.X"
 O livro eletrônico Explorando o QGIS 3.X, de Ana Paula Dalla Corte [et al.], está disponível para acesso integral e gratuito, através do GITHUB (https://github.com/anacorte/LIVROQGIS2020/) e arquivos auxiliares em: 
 em formato compactado (.zip), por meio do repositório Zenodo:
